@@ -5,6 +5,8 @@ let deposit = true;
 let mission = 10000; //Какую сумму хотите накопить
 let period = 12; //Количество месяцев
 
+alert("Open console :)");
+
 //output type variables
 console.log("Выводим типы данных: ");
 console.log("Тип данных переменной 'money': " + typeof money);
